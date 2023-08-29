@@ -3,7 +3,7 @@ Show status and events of devices on a webpage.
 
     
 ## Benutzung / Abhängigkeiten
-https://flx-webmonitor.bitbucket.io/
+https://flx-webmonitor.github.io/
 
 
 
